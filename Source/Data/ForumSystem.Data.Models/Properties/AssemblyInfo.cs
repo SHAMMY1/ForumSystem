@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ForumSystem.Common")]
+[assembly: AssemblyTitle("ForumSystem.Data.Models")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ForumSystem.Common")]
+[assembly: AssemblyProduct("ForumSystem.Data.Models")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("69a24373-5783-4584-b3ac-919ea7ed515c")]
+[assembly: Guid("a7d0e232-2eab-419f-81ed-f26b31963d93")]
 
 // Version information for an assembly consists of the following four values:
 //
