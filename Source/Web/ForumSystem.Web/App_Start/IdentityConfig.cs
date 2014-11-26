@@ -4,6 +4,8 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using ForumSystem.Web.Models;
+using ForumSystem.Data.Models;
+using ForumSystem.Data;
 
 namespace ForumSystem.Web
 {

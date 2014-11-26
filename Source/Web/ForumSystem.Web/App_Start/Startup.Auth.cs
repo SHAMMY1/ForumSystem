@@ -7,6 +7,8 @@ using Microsoft.Owin.Security.DataProtection;
 using Owin;
 using System;
 using ForumSystem.Web.Models;
+using ForumSystem.Data;
+using ForumSystem.Data.Models;
 
 namespace ForumSystem.Web
 {
