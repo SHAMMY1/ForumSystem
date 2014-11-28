@@ -1,4 +1,4 @@
-﻿namespace BlogSystem.Data.Contracts
+﻿namespace ForumSystem.Data.Common.Repository
 {
     using System;
     using System.Linq;

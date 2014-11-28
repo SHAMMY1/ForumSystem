@@ -1,6 +1,6 @@
-﻿namespace BlogSystem.Data.Contracts
+﻿namespace ForumSystem.Data.Common.Repository
 {
-    using System.Linq;
+	using System.Linq;
 
     public interface IDeletableEntityRepository<T> : IRepository<T> where T : class
     {
