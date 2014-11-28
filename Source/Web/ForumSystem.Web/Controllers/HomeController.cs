@@ -27,7 +27,7 @@ namespace ForumSystem.Web.Controllers
 		public ActionResult Index()
 		{
 			var posts = this.posts.All();
-			return View();
+			return View(posts);
 		}
 
 	}
