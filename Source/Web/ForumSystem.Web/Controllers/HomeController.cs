@@ -14,11 +14,6 @@ namespace ForumSystem.Web.Controllers
 	{
 		private IRepository<Post> posts;
 
-		public HomeController()
-			: this(new GenericRepository<Post>(new ApplicationDbContext()))
-		{
-		}
-
 		public HomeController(IRepository<Post> posts)
 		{
 			this.posts = posts;
